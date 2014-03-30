@@ -18,6 +18,3 @@ $ git remote add origin https://github.com/username/Hello-World.git
 
 $ git push origin master
 # Sends your commits in the "master" branch to GitHub
-
-
-$ mkdir ~/Hello-World
